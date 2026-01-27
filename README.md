@@ -1,2 +1,2 @@
 # LaTeX-Resume-Jack-Butlin
-all my LaTeX Resume versions for various job opportunities 
+My Resume in LaTeX and PDF format for job opportunities 
