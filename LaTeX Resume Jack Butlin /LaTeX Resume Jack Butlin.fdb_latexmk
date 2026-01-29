@@ -1,6 +1,6 @@
 # Fdb version 4
-["pdflatex"] 1769706336.25575 "/Users/jackbutlin/Documents/GitHub/LaTeX-Resume-Jack-Butlin/LaTeX Resume Jack Butlin /LaTeX Resume Jack Butlin.tex" "LaTeX Resume Jack Butlin.pdf" "LaTeX Resume Jack Butlin" 1769706337.10978 0
-  "/Users/jackbutlin/Documents/GitHub/LaTeX-Resume-Jack-Butlin/LaTeX Resume Jack Butlin /LaTeX Resume Jack Butlin.tex" 1769706336.00692 4045 96585a20d6856e1aadbbbd880438d130 ""
+["pdflatex"] 1769706582.13925 "/Users/jackbutlin/Documents/GitHub/LaTeX-Resume-Jack-Butlin/LaTeX Resume Jack Butlin /LaTeX Resume Jack Butlin.tex" "LaTeX Resume Jack Butlin.pdf" "LaTeX Resume Jack Butlin" 1769706582.94994 0
+  "/Users/jackbutlin/Documents/GitHub/LaTeX-Resume-Jack-Butlin/LaTeX Resume Jack Butlin /LaTeX Resume Jack Butlin.tex" 1769706580.96317 4046 0ef27e844eb5dcfd93b6999e2fde687f ""
   "/usr/local/texlive/2025/texmf-dist/fonts/enc/dvips/lm/lm-rm.enc" 1202520719 2327 9d6df24f9c4f7368395224341a95523a ""
   "/usr/local/texlive/2025/texmf-dist/fonts/enc/dvips/lm/lm-ts1.enc" 1254269338 3031 6c4d3515bf7115d8518af1c9ab97ca44 ""
   "/usr/local/texlive/2025/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
@@ -70,9 +70,9 @@
   "/usr/local/texlive/2025/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1769520175 5467155 19efa205003f9ecad95fbbaa6ff24da1 ""
   "/usr/local/texlive/2025/texmf-var/web2c/pdftex/pdflatex.fmt" 1769520153 3345739 66a1fe9cf7166710a2afecd276817522 ""
   "/usr/local/texlive/2025/texmf.cnf" 1741450484 577 418a7058ec8e006d8704f60ecd22c938 ""
-  "LaTeX Resume Jack Butlin.aux" 1769706337.02504 162 55205a9e8a8eca30d36afb389b0617bf "pdflatex"
-  "LaTeX Resume Jack Butlin.out" 1769706336.73877 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
-  "LaTeX Resume Jack Butlin.tex" 1769706336.00692 4045 96585a20d6856e1aadbbbd880438d130 ""
+  "LaTeX Resume Jack Butlin.aux" 1769706582.87719 162 55205a9e8a8eca30d36afb389b0617bf "pdflatex"
+  "LaTeX Resume Jack Butlin.out" 1769706582.59462 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
+  "LaTeX Resume Jack Butlin.tex" 1769706580.96317 4046 0ef27e844eb5dcfd93b6999e2fde687f ""
   (generated)
   "LaTeX Resume Jack Butlin.aux"
   "LaTeX Resume Jack Butlin.log"
