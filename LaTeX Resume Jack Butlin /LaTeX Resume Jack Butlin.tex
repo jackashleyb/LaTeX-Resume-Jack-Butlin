@@ -1,6 +1,7 @@
-\documentclass[10pt,a4paper]{article}
+\documentclass[9.5pt,a4paper]{article}
 
 % ---------- Packages ----------
+\usepackage{lmodern}
 \usepackage[margin=0.4in]{geometry}
 \usepackage[hidelinks]{hyperref}
 \usepackage{enumitem}
@@ -8,7 +9,19 @@
 
 % ---------- Formatting ----------
 \setlength{\parindent}{0pt}
+\setlength{\parskip}{2pt}
+\linespread{1.0}
+
 \titleformat{\section}{\large\bfseries}{}{0em}{}[\titlerule]
+\titlespacing*{\section}{0pt}{6pt}{4pt}
+
+\setlist[itemize]{
+  noitemsep,
+  topsep=2pt,
+  parsep=0pt,
+  partopsep=0pt,
+  leftmargin=*
+}
 
 % ---------- Document ----------
 \begin{document}
@@ -18,7 +31,7 @@
     {\LARGE \textbf{Jack Butlin}} \\[4pt]
     Cybersecurity Student \\[6pt]
     \href{mailto:jackashleyb@icloud.com}{jackashleyb@icloud.com} \,|\, 
-    \href{https://github.com/jackashleyb}{github.com/jackashleyb} \,
+    \href{https://github.com/jackashleyb}{github.com/jackashleyb}
 \end{center}
 
 % ---------- Profile ----------
@@ -29,62 +42,60 @@ Motivated Cybersecurity student with a strong interest in software development, 
 \section*{Education}
 \textbf{BSc Cybersecurity} \hfill \textit{2025 -- Present} \\
 University of West London, United Kingdom
-
-\begin{itemize}[leftmargin=*]
+\begin{itemize}
     \item Relevant Modules: Algorithms and Data Structures, Computer Architecture, Cloud Computing, Cybersecurity
     \item Expected Graduation: 2027
 \end{itemize}
 
 \textbf{STEM Foundation Program} \hfill \textit{2024 -- 2025} \\
 Edge Hill University, United Kingdom
-
-\begin{itemize}[leftmargin=*]
-    \item Relevant Modules: Applied Mathematics, Group Project, Academic Writing, Biology.
-    \item Completed this level 3 program with a focus on foundational STEM skills to prepare for undergraduate studies.
+\begin{itemize}
+    \item Relevant Modules: Applied Mathematics, Group Project, Academic Writing, Biology
+    \item Completed this level 3 program with a focus on foundational STEM skills to prepare for undergraduate studies
 \end{itemize}
 
 % ---------- Technical Skills ----------
 \section*{Technical Skills}
-\textbf{Programming Languages:} Python and Java \\
-\textbf{Web Technologies:} HTML, CSS, Flask \\
-\textbf{Cloud \& DevOps:} AWS (EC2, S3, IAM, Lambda), Git, GitHub \\
-\textbf{Tools:} VS Code, LaTeX, Github
+\begin{tabular}{@{}l l@{}}
+\textbf{Programming Languages:} & Python, Java \\
+\textbf{Web Technologies:} & HTML, CSS, Flask \\
+\textbf{Cloud \& DevOps:} & AWS (EC2, S3, IAM, Lambda), Git, GitHub \\
+\textbf{Tools:} & VS Code, LaTeX, GitHub \\
+\end{tabular}
 
 % ---------- Projects ----------
 \section*{Projects}
 \textbf{Simple Moving Average SMA Crossover Trading Strategy} \\
-\textit{Python, yFinance, Github, Pandas, Matplotlib} \\
-\begin{itemize}[leftmargin=*]
+\textit{Python, yFinance, GitHub, Pandas, Matplotlib}
+\begin{itemize}
     \item Built a Python-based trading strategy that generates buy and sell signals using short- and long-term moving average crossovers
-    \item Processed and analysed historical price data using pandas and yFinance libraries, with Visualised price action, indicators, and trading signals with matplotlib
-   \item\href{https://github.com/jackashleyb/Simple-Moving-Average-SMA-Crossover-Trading-Strategy}{Version-controlled the project using Git and published it on GitHub.}
+    \item Processed and analysed historical price data using pandas and yFinance libraries, with visualised price action, indicators, and trading signals with matplotlib.
+    \item \href{https://github.com/jackashleyb/Simple-Moving-Average-SMA-Crossover-Trading-Strategy}{Version-controlled the project using Git and published it on GitHub, View the project here.}
 \end{itemize}
 
-\textbf{AWS Serverless API Lab}
-\begin{itemize}[leftmargin=*]
-    \item Built a serverless REST API using AWS Lambda, API Gateway, and DynamoDB.
-    \item Applied basic cloud security principles including IAM roles and least-privilege access.
+\textbf{Daily Stock Price Tracker In Python}
+\begin{itemize}
+    \item This project allows users to enter a stock ticker symbol (like AAPL, TSLA, or GOOGL) and instantly view the latest market data. It displays the Current Price and the day's Opening Price
+    \item I built this to practice connecting a Python backend with a frontend web interface using the Flask framework
 \end{itemize}
 
 % ---------- Experience ----------
 \section*{Experience}
 \textbf{University Coursework and Labs}
-\begin{itemize}[leftmargin=*]
-    \item Designed and implemented algorithms using common data structures such as linked lists and arrays.
-    \item Applied secure coding practices and fundamental cybersecurity concepts in lab environments.
+\begin{itemize}
+    \item Designed and implemented algorithms using common data structures such as linked lists and arrays
+    \item Applied secure coding practices and fundamental cybersecurity concepts in lab environments
 \end{itemize}
 
 % ---------- Certifications ----------
 \section*{Certifications}
-\begin{itemize}[leftmargin=*]
+\begin{itemize}
     \item AWS Cloud Practitioner (In Progress)
-    \item AWS Ai Practitioner (In Progress)
+    \item AWS AI Practitioner (In Progress)
 \end{itemize}
 
 % ---------- Interests ----------
 \section*{Interests}
-Resume Built in LaTeX, Software development, cloud security, financial technology, learning new programming tools, and contributing to personal GitHub projects.
+Resume built in LaTeX, software development, cloud security, financial technology, learning new programming tools, and contributing to personal GitHub projects.
 
 \end{document}
-
-
