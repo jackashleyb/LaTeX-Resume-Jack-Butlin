@@ -1,7 +1,6 @@
 # Fdb version 4
-["pdflatex"] 1770067644.6667 "/Users/jackbutlin/Documents/GitHub/LaTeX-Resume-Jack-Butlin/LaTeX Resume Jack Butlin /LaTeX Resume Jack Butlin.tex" "LaTeX Resume Jack Butlin.pdf" "LaTeX Resume Jack Butlin" 1770067645.45041 0
-  "/Users/jackbutlin/Documents/GitHub/LaTeX-Resume-Jack-Butlin/LaTeX Resume Jack Butlin /LaTeX Resume Jack Butlin.tex" 1770067644.50893 4341 90fb7d9a99561760a0b7d3eccfdfed03 ""
-  "/usr/local/texlive/2025/texmf-dist/fonts/enc/dvips/lm/lm-mathit.enc" 1202520719 2405 5dcf2c1b967ee25cc46c58cd52244aed ""
+["pdflatex"] 1770142102.19784 "/Users/jackbutlin/Documents/GitHub/LaTeX-Resume-Jack-Butlin/LaTeX Resume Jack Butlin /LaTeX Resume Jack Butlin.tex" "LaTeX Resume Jack Butlin.pdf" "LaTeX Resume Jack Butlin" 1770142102.92192 0
+  "/Users/jackbutlin/Documents/GitHub/LaTeX-Resume-Jack-Butlin/LaTeX Resume Jack Butlin /LaTeX Resume Jack Butlin.tex" 1770142101.25925 4602 6cd5c1665bebd45c394fd2ed00b931fa ""
   "/usr/local/texlive/2025/texmf-dist/fonts/enc/dvips/lm/lm-rm.enc" 1202520719 2327 9d6df24f9c4f7368395224341a95523a ""
   "/usr/local/texlive/2025/texmf-dist/fonts/enc/dvips/lm/lm-ts1.enc" 1254269338 3031 6c4d3515bf7115d8518af1c9ab97ca44 ""
   "/usr/local/texlive/2025/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
@@ -23,10 +22,7 @@
   "/usr/local/texlive/2025/texmf-dist/fonts/tfm/public/lm/ts1-lmr10.tfm" 1254269338 1556 b86d923e6b2f9aab2e313098a95cb0b8 ""
   "/usr/local/texlive/2025/texmf-dist/fonts/type1/public/lm/lmbx10.pfb" 1255129361 121021 1bf809ce4a594679006bd72263eba59b ""
   "/usr/local/texlive/2025/texmf-dist/fonts/type1/public/lm/lmbx12.pfb" 1255129361 116908 1fca96723793882c2e0160350c192fc8 ""
-  "/usr/local/texlive/2025/texmf-dist/fonts/type1/public/lm/lmmi10.pfb" 1254269338 30388 702fae6a5f0e6e9c48a1d872b442ffcf ""
-  "/usr/local/texlive/2025/texmf-dist/fonts/type1/public/lm/lmmi7.pfb" 1254269338 30789 be3ebdf20b6442cc4aaf81a81e17daf4 ""
   "/usr/local/texlive/2025/texmf-dist/fonts/type1/public/lm/lmr10.pfb" 1255129361 119235 f35b44530a1d90eb90fe15d9cba67ea0 ""
-  "/usr/local/texlive/2025/texmf-dist/fonts/type1/public/lm/lmr7.pfb" 1255129361 121145 68312a933e2c689ed40ec0aba373e279 ""
   "/usr/local/texlive/2025/texmf-dist/fonts/type1/public/lm/lmri10.pfb" 1255129361 112593 fda2373ba4420af33949610de4c28fe8 ""
   "/usr/local/texlive/2025/texmf-dist/tex/generic/atbegshi/atbegshi.sty" 1575674566 24708 5584a51a7101caf7e6bbf1fc27d8f7b1 ""
   "/usr/local/texlive/2025/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty" 1576625341 40635 c40361e206be584d448876bba8a64a3b ""
@@ -74,9 +70,9 @@
   "/usr/local/texlive/2025/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1769520175 5467155 19efa205003f9ecad95fbbaa6ff24da1 ""
   "/usr/local/texlive/2025/texmf-var/web2c/pdftex/pdflatex.fmt" 1769520153 3345739 66a1fe9cf7166710a2afecd276817522 ""
   "/usr/local/texlive/2025/texmf.cnf" 1741450484 577 418a7058ec8e006d8704f60ecd22c938 ""
-  "LaTeX Resume Jack Butlin.aux" 1770067645.36558 162 55205a9e8a8eca30d36afb389b0617bf "pdflatex"
-  "LaTeX Resume Jack Butlin.out" 1770067645.10625 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
-  "LaTeX Resume Jack Butlin.tex" 1770067644.50893 4341 90fb7d9a99561760a0b7d3eccfdfed03 ""
+  "LaTeX Resume Jack Butlin.aux" 1770142102.85092 162 55205a9e8a8eca30d36afb389b0617bf "pdflatex"
+  "LaTeX Resume Jack Butlin.out" 1770142102.60231 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
+  "LaTeX Resume Jack Butlin.tex" 1770142101.25925 4602 6cd5c1665bebd45c394fd2ed00b931fa ""
   (generated)
   "LaTeX Resume Jack Butlin.aux"
   "LaTeX Resume Jack Butlin.log"

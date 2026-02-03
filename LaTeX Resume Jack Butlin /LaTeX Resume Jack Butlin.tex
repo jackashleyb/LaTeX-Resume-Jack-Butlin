@@ -1,5 +1,6 @@
 \documentclass[9.5pt,a4paper]{article}
 
+
 % ---------- Packages ----------
 \usepackage{lmodern}
 \usepackage[margin=0.4in]{geometry}
@@ -7,13 +8,16 @@
 \usepackage{enumitem}
 \usepackage{titlesec}
 
+
 % ---------- Formatting ----------
 \setlength{\parindent}{0pt}
 \setlength{\parskip}{3pt}
 \linespread{1.0}
 
+
 \titleformat{\section}{\large\bfseries}{}{0em}{}[\titlerule]
 \titlespacing*{\section}{0pt}{7pt}{6pt}
+
 
 \setlist[itemize]{
   noitemsep,
@@ -23,8 +27,10 @@
   leftmargin=*
 }
 
+
 % ---------- Document ----------
 \begin{document}
+
 
 % ---------- Header ----------
 \begin{center}
@@ -33,6 +39,7 @@
     \href{mailto:jackashleyb@icloud.com}{jackashleyb@icloud.com} \,|\, 
     \href{https://github.com/jackashleyb}{github.com/jackashleyb}
 \end{center}
+
 
 
 % ---------- Education ----------
@@ -44,6 +51,7 @@ University of West London, United Kingdom
 \end{itemize}
 
 
+
 % ---------- Technical Skills ----------
 \section*{Technical Skills}
 \begin{tabular}{@{}l l@{}}
@@ -53,15 +61,28 @@ University of West London, United Kingdom
 \textbf{Tools:} & VS Code, LaTeX, GitHub \\
 \end{tabular}
 
+
 % ---------- Projects ----------
 \section*{Projects}
+
+
+\textbf{Simple Long Short Equity Strategy In Python} \\
+\textit{Python, Pandas, NumPy, yFinance}
+\begin{itemize}
+    \item this project Implements a strategy of going long on underperforming stocks while also retaining a short position on stocks within the same sector.
+    \item this has been back tested and on 5 years of historical data. Using histroicla market data for Google, Meta, S\&P 500 and microsoft.
+    \item Version-controlled the project with Git and published it on a GitHub: \href{https://github.com/jackashleyb/simple-long-short-equity-strategy-in-python}{Repository}.
+\end{itemize}
+
+
 \textbf{Simple Moving Average (SMA) Crossover Trading Strategy} \\
 \textit{Python, yFinance, Pandas, Matplotlib, GitHub}
 \begin{itemize}
-    \item Built a Python trading strategy using short- (SMA$_{20}$) and long-term (SMA$_{50}$) moving average crossovers, buying when SMA$_{20} >$ SMA$_{50}$ and selling when SMA$_{20} <$ SMA$_{50}$.
-    \item Processed and analyzed historical prices $P_t$ with Pandas and yFinance; visualized trends and signals using Matplotlib.
+    \item Built a Python trading strategy using short-term and long-term moving average crossovers.
+    \item Processed and analyzed historical prices with Pandas and yFinance; visualized trends and signals using Matplotlib.
     \item Version-controlled the project with Git and published it on a GitHub: \href{https://github.com/jackashleyb/Simple-Moving-Average-SMA-Crossover-Trading-Strategy}{Repository}.
 \end{itemize}
+
 
 \textbf{Daily Stock Price Tracker in Python} \\
 \textit{Python, GitHub, Flask, HTML}
@@ -70,14 +91,15 @@ University of West London, United Kingdom
     \item Built to practice connecting a Python backend with a frontend web interface using the Flask framework
 \end{itemize}
 
+
 % ---------- Academic Experience ----------
 \section*{Academic Experience}
 \textbf{University Coursework and Labs}
 \begin{itemize}
     \item \textbf{Algorithm \& Data Structures Project:} Implemented stacks, queues, linked lists, recursion, sorting, and searching algorithms in Python
     \item \textbf{Quantitative Trading Mini-Project:} Developed Python scripts for automated trading strategies, including data analysis and chart output
-    \item \textbf{AWS Emerging Talents Community:} Participated in online cloud labs deploying and managing AWS services in a secure environment
 \end{itemize}
+
 
 % ---------- Certifications ----------
 \section*{Certifications}
@@ -86,13 +108,14 @@ University of West London, United Kingdom
     \item AWS Emerging Talent Community Member - active member of this program that gives me access to online labs and extra development in cloud principles.
     \item CompTIA Cloud Essentials - Online fundamentals training that gives an overview of cloud essentials.
     \item CompTIA AI Fundamentals - Online fundamentals that gives me an overview of ai prompting and how to prompt effectively and effienclty.
-    \item AWS Educate Cloud 101 - Online AWS training that gives me more context to how cloud systems work.
     \item AWS Educate Getting Started With Security (Online Lab) - AWS online labs that demonstrates hands on work with aws systems.
 \end{itemize}
+
 
 % ---------- Interests ----------
 \section*{Interests}
 LaTeX, software development, cloud security, financial technology, learning new programming tools, and contributing to personal GitHub projects
+
 
 \vspace*{6pt}
 \end{document}
